@@ -1,0 +1,25 @@
+{
+  "name": "async-samples",
+  "version": "1.0.0",
+  "description": "async-samples",
+  "main": "promise.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/telmanagababov/async-samples.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/telmanagababov/async-samples/issues"
+  },
+  "homepage": "https://github.com/telmanagababov/async-samples#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "fetch": "^1.1.0",
+    "node-fetch": "^1.7.1",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
